@@ -19,7 +19,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
    ```bash
-https://github.com/pushkarcodes110/todo_rest)https://github.com/pushkarcodes110/todo_rest
+https://github.com/pushkarcodes110/todo_rest
 
 2. Navigate into the project directory:
  ```bash
